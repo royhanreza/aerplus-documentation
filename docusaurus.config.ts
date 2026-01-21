@@ -114,8 +114,8 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'System Architecture',
+              to: '/docs/system-architecture',
             },
           ],
         },
