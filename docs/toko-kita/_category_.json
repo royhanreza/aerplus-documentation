@@ -1,0 +1,10 @@
+{
+    "label": "Toko Kita (Web App)",
+    "position": 4,
+    "collapsed": false,
+    "collapsible": true,
+    "link": {
+        "type": "generated-index",
+        "description": "Dokumentasi teknis untuk aplikasi web Toko Kita - Platform belanja untuk customer."
+    }
+}

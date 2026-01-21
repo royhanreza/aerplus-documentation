@@ -1,0 +1,10 @@
+{
+    "label": "Aerplus Admin (Back-End)",
+    "position": 2,
+    "collapsed": false,
+    "collapsible": true,
+    "link": {
+        "type": "generated-index",
+        "description": "Dokumentasi teknis untuk Aerplus Admin - Backend system untuk manajemen operasional bisnis."
+    }
+}

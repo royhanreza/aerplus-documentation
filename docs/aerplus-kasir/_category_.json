@@ -1,0 +1,10 @@
+{
+    "label": "Aerplus Kasir (Mobile App)",
+    "position": 1,
+    "collapsed": false,
+    "collapsible": true,
+    "link": {
+        "type": "generated-index",
+        "description": "Dokumentasi teknis untuk aplikasi mobile Aerplus Kasir - Point of Sale system untuk iOS dan Android."
+    }
+}
